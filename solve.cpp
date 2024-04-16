@@ -47,7 +47,6 @@ bool cross(vector<int> & enemy_power,int power,int boon,priority_queue<int> q){
          } 
       }
     }
-    cout<<power<<endl;
     return true;
 }
 
