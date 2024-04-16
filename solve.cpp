@@ -1,3 +1,4 @@
+// Time Complexity is O(1) because the sizze of array is constant
 #include<bits/stdc++.h>
 #include<ext/pb_ds/assoc_container.hpp>
 #include<ext/pb_ds/tree_policy.hpp>
